@@ -1,6 +1,6 @@
-# E-Commerce SQL Project
+# E-Commerce SQL Project 🛢️
 
-A simple e-commerce database built in **MySQL** that manages customers, products, and orders. The project covers schema design, sample data, common queries, and database normalization with an `order_items` table.
+A simple e-commerce database built in **MySQL** that manages customers, products, and orders. The project covers schema design, sample data, common queries and database normalization with an `order_items` table.
 
 ## Tech Stack
 
